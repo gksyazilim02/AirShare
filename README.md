@@ -4,7 +4,7 @@
 ÖNEMLİ : Ekran ve ses yansıtmalarında, kendi cihazınızın mobil verinizi kapatarak sunucuya bağlanan cihazın Wi-Fi (Hotspot) özelliğini kullanarak veri paylaşımını gerçekleştirmeniz gerekmektedir.
 ------
 ## AirShare'nin Android istemcisi ile aynı yerel ağ üzerindeki ekranınızı, sesinizi ve dosyalarınızı mobil cihazınızdan Linux (Ubuntu,PARDUS) ve Windows işletim sistemine güvenli olarak aktarabilirsiniz.
-## Öncelikle PLAY STORE üzerinden (https://play.google.com/store/apps/details?id=com.yazilim.airshare) AirShare isimli mobil uygulamayı Android cihazınıza kurmalısınız.
+## Öncelikle PLAY STORE üzerinden (https://play.google.com/store/apps/details?id=com.gksyazilim.airshare) AirShare isimli mobil uygulamayı Android cihazınıza kurmalısınız.
 
 ## Mobil uygulamayı kurduktan sonra bu linkte yer alan paketleri indirerek Linux(Ubuntu,Pardus vb.) veya Windows işletim sisteminize kurabilir ve cep telefonunuz üzerinden aynı ağdaki bilgisayarınıza ekran yansıtma ve dosya transferi yapabilirsiniz.
 
