@@ -1,30 +1,30 @@
-# 🖥️ AirShareGKS (Ekran ve Ses Yansıtma) 
+# 🖥️ AirShare (Ekran ve Ses Yansıtma) 
 
-## AirShareGKS; yerel ağ (Wi-Fi/Ethernet) üzerinden Android cihazınızın ekran, ses ve mikrofonunu bilgisayara kablosuz ve hızlı bir şekilde yansıtmanızı sağlayan, özellikle Linux(Ubuntu,Pardus vb.) ve Windows odaklı bir masaüstü sunucu uygulamasıdır.
+## AirShare; yerel ağ (Wi-Fi/Ethernet) üzerinden Android cihazınızın ekran, ses ve mikrofonunu bilgisayara kablosuz ve hızlı bir şekilde yansıtmanızı sağlayan, özellikle Linux(Ubuntu,Pardus vb.) ve Windows odaklı bir masaüstü sunucu uygulamasıdır.
 ÖNEMLİ : Ekran ve ses yansıtmalarında, kendi cihazınızın mobil verinizi kapatarak sunucuya bağlanan cihazın Wi-Fi (Hotspot) özelliğini kullanarak veri paylaşımını gerçekleştirmeniz gerekmektedir.
 ------
-## AirShareGKS'nin Android istemcisi ile aynı yerel ağ üzerindeki ekranınızı, sesinizi ve dosyalarınızı mobil cihazınızdan Linux (Ubuntu,PARDUS) ve Windows işletim sistemine güvenli olarak aktarabilirsiniz.
-## Öncelikle PLAY STORE üzerinden (https://play.google.com/store/apps/details?id=com.gksyazilim.airshare) AirShareGKS isimli mobil uygulamayı Android cihazınıza kurmalısınız.
+## AirShare'nin Android istemcisi ile aynı yerel ağ üzerindeki ekranınızı, sesinizi ve dosyalarınızı mobil cihazınızdan Linux (Ubuntu,PARDUS) ve Windows işletim sistemine güvenli olarak aktarabilirsiniz.
+## Öncelikle PLAY STORE üzerinden (https://play.google.com/store/apps/details?id=com.yazilim.airshare) AirShare isimli mobil uygulamayı Android cihazınıza kurmalısınız.
 
 ## Mobil uygulamayı kurduktan sonra bu linkte yer alan paketleri indirerek Linux(Ubuntu,Pardus vb.) veya Windows işletim sisteminize kurabilir ve cep telefonunuz üzerinden aynı ağdaki bilgisayarınıza ekran yansıtma ve dosya transferi yapabilirsiniz.
 
 ### 📥 Uygulama İndirme Linkleri
 
 * 🐧 **Linux (Ubuntu, Pardus)İşletim Sistemi İçin (Sunucu Setup 1) (.deb):**  
-  [🔗 AirShareGKS İndir](https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/airshare-gks_amd64.deb)
+  [🔗 AirShare İndir](https://github.com/yazilim02/AirShare/releases/download/AirShare/airshare-_amd64.deb)
 
 * 🪟 **Windows İşletim Sistemi İçin Sunucu Kurulum Dosyası (Sunucu Setup 2):**  
-  [🔗 AirShare GKS Windows Sunucu Kurulumu İndir](https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/AirShare.GKS.setup.exe)
+  [🔗 AirShare  Windows Sunucu Kurulumu İndir](https://github.com/yazilim02/AirShare/releases/download/AirShare/AirShare..setup.exe)
 
 * 🪟 **Windows İşletim Sistemi İçin İstemci Kurulum Dosyası (İstemci Setup 1):**  
-  [🔗 AirShare GKS Windows İstemci Kurulumu İndir](https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/AirShare.GKS.Client.exe)
+  [🔗 AirShare  Windows İstemci Kurulumu İndir](https://github.com/yazilim02/AirShare/releases/download/AirShare/AirShare..Client.exe)
 
   🐧 **Linux (Ubuntu, Pardus)İşletim Sistemi İçin (.deb) (İstemci Setup 2):**  
-  [🔗 AirShare GKS Linux İstemci Kurulumu İndir](https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/airshare-gks-client_1.0.0_amd64.deb)
+  [🔗 AirShare  Linux İstemci Kurulumu İndir](https://github.com/yazilim02/AirShare/releases/download/AirShare/airshare--client_1.0.0_amd64.deb)
   
 
 *🍓 **Raspberry Pi (64-bit / Raspberry Pi OS) İçin (.deb):
-* [🔗 AirShare GKS Raspberry Sunucu Kurulumu İndir](https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/airshare-gks_1.0.0_arm64.deb)
+* [🔗 AirShare  Raspberry Sunucu Kurulumu İndir](https://github.com/yazilim02/AirShare/releases/download/AirShare/airshare-_1.0.0_arm64.deb)
 ------
 
 ------
@@ -32,13 +32,13 @@
 ## 📱 Android İstemcisi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
- **AirShareGKS Mobile:**  
-Uygulama Linki: [Google Play Store - AirShareGKS](https://play.google.com/store/apps/details?id=com.gksyazilim.airshare)
+ **AirShare Mobile:**  
+Uygulama Linki: [Google Play Store - AirShare](https://play.google.com/store/apps/details?id=com.yazilim.airshare)
 
 ## 📷 Android Mobil Uygulama Ekran Görüntüleri
 
 <p align="center">
-  <img src="https://github.com/gksyazilim02/AirShareGKS/blob/main/2.png" alt="Ana Ekran 1" width="300"/>
+  <img src="https://github.com/yazilim02/AirShare/blob/main/2.png" alt="Ana Ekran 1" width="300"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@ Uygulama Linki: [Google Play Store - AirShareGKS](https://play.google.com/store/
 
 1. Uygulamayı Windows veya Pardus masaüstü üzerinde çalıştırın.
 2. **Sunucu IP Adresi** bölümünde görünen QR kodu mobil uygulama üzerinden taratın veya ekranda görünen IP numarası ve 6 haneli güvenlik parolası ile uygulamaya giriş yapın. (Örn: `192.168.1.50`)
-3. Aynı Wi-Fi ağına bağlı telefonunuzdaki AirShareGKS uygulamasından bağlan butonuna basın. (ÖNEMLİ: Wi-fi ağını kişisel erişim noktanızdan yapmanız daha hızlı ve daha güvenli bağlantıyı sağlayacaktır.Burada önemli nokta paylaşım yapan cihazların aynı ağda olmasıdır)
+3. Aynı Wi-Fi ağına bağlı telefonunuzdaki AirShare uygulamasından bağlan butonuna basın. (ÖNEMLİ: Wi-fi ağını kişisel erişim noktanızdan yapmanız daha hızlı ve daha güvenli bağlantıyı sağlayacaktır.Burada önemli nokta paylaşım yapan cihazların aynı ağda olmasıdır)
 4. **🎥 Ekran ve Sesi Yansıt** butonunu kullanarak ekranınızı ve dahili sesinizi bilgisayara aktarmaya başlayın.
 5. İsterseniz **🎙️ Mikrofonu Yansıt** seçeneği ile sesinizi anlık olarak bilgisayara aktarabilirsiniz.
 
@@ -82,7 +82,7 @@ Uygulama Linki: [Google Play Store - AirShareGKS](https://play.google.com/store/
 
 # 📸 Ekran Görüntüsü
 
-![AirShareGKS Ekran Görüntüsü](https://github.com/gksyazilim02/AirShareGKS/blob/main/3.png)
+![AirShare Ekran Görüntüsü](https://github.com/yazilim02/AirShare/blob/main/3.png)
 
 ---
 
